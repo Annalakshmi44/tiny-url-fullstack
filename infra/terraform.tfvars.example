@@ -1,0 +1,4 @@
+project_name       = "tinyurl"
+location           = "East US"
+sql_admin_password = "welcome@2026"
+secret_token       = "your-secret-token-here"
